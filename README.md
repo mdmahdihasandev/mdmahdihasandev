@@ -6,11 +6,14 @@
 
 Passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world websites using modern frontend technologies and AI-powered development tools.
 
-##🚀 About Me
+## 🚀 About Me
 
 💻 Building modern, responsive & user-friendly web applications
+
 🤖 Using AI tools to speed up development, improve UI/UX, and solve coding problems
+
 🌱 Currently learning React, Tailwind CSS & JavaScript (ES6+)
+
 🎯 Goal: Become a Full Stack Developer and build AI-powered web applications.
 
 ## 🛠️ Skills
