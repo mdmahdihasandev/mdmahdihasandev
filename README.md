@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Mahdi Hasan
 
-### 🚀 Frontend Developer | React Developer | AI-Assisted Web Develope
+### 🚀 Frontend Developer | React Developer | AI-Powered Web Developer
 
 Passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world websites using modern frontend technologies and AI-powered development tools.
 
@@ -18,7 +18,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 🛠️ Skills
 
-HTML5 • CSS3 • Tailwind CSS • JavaScript • React.js • Git • GitHub • VS Code
+HTML5 • CSS3 • Tailwind CSS • JavaScript • React.js • Git • GitHub • VS Code • TypeScript
 
 AI Tools
 
@@ -48,7 +48,7 @@ Devin Desktop AI
 
 ## ⚡ Fun Fact
 
-I enjoy combining AI with modern web development to build faster, smarter, and better user experiences.
+Passionate about creating fast, responsive and user-friendly web applications with modern technologies and AI-assisted development.
 
 
 
