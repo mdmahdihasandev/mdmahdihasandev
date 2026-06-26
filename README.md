@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmahdihasandev/mdmahdihasandev/main/banner.png" width="100%">
+</p>
 
 # Hi 👋 I'm Mahdi Hasan
 
