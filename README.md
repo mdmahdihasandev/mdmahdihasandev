@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/mdmahdihasandev/mdmahdihasandev/main/banner.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmahdihasandev/mdmahdihasandev/main/banner.png" width="100%" alt="Mahdi Hasan Banner">
+</p>
+
 # Hi 👋 I'm Mahdi Hasan
 
 ### 🚀 Frontend Developer | React Developer | AI-Powered Web Developer
